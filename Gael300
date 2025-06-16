@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Cómo Utilizar Aplicaciones</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Cómo Utilizar Aplicaciones</h1>
+
+<p>En esta guía te enseñaré cómo utilizar 3 aplicaciones muy útiles en el entorno digital: Canva, Mentimeter y Genially. A continuación encontrarás más información sobre cada una. Espero que te sirva tanto para estudiar como para dar presentaciones más dinámicas, expresar tus ideas de forma gráfica o realizar lluvias de ideas en equipo.</p>
+
+<ul>
+  <li><a href="canva.html">Canva</a></li>
+  <li><a href="mentimeter.html">Mentimeter</a></li>
+  <li><a href="genially.html">Genially</a></li>
+</ul>
+
+<img src="https://via.placeholder.com/400x200?text=Canva,+Mentimeter,+Genially" alt="Aplicaciones">
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Canva - Cómo utilizar</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body {
+    background: linear-gradient(135deg, #3A8DFF, #7B61FF);
+    color: white;
+    padding: 20px;
+  }
+  h1 {
+    color: white;
+  }
+  img {
+    max-width: 400px;
+    margin: 20px 0;
+  }
+  .regresar {
+    margin-top: 30px;
+  }
+  .regresar a {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+<h1>Canva</h1>
+
+<p>Canva es una plataforma de diseño gráfico en línea que permite crear presentaciones, posters, imágenes para redes sociales y mucho más de manera sencilla e intuitiva.</p>
+
+<p>Fue creada por Melanie Perkins y su equipo en 2012 y desde entonces ha revolucionado la forma en que las personas y empresas diseñan sin necesidad de tener conocimientos avanzados.</p>
+
+<p>Canva sirve para diseñar contenido visual para proyectos personales, educativos o profesionales con miles de plantillas, imágenes y herramientas.</p>
+
+<p>Su facilidad de uso ha ayudado a la comunidad digital a democratizar el diseño gráfico, permitiendo a cualquiera expresar sus ideas visualmente.</p>
+
+<p>Se diferencia de otras aplicaciones porque combina simplicidad, acceso desde cualquier dispositivo y una enorme biblioteca de recursos gratuitos y de pago.</p>
+
+<h2>¿Cómo usar Canva?</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canva_Logo.png/600px-Canva_Logo.png" alt="Logo Canva">
+<p>Para usar Canva, simplemente regístrate en su página web, elige una plantilla y comienza a editar con herramientas drag & drop.</p>
+
+<div class="regresar">
+  <a href="index.html">Regresar a la página principal</a>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Canva - Cómo utilizar</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body {
+    background: linear-gradient(135deg, #3A8DFF, #7B61FF);
+    color: white;
+    padding: 20px;
+  }
+  h1 {
+    color: white;
+  }
+  img {
+    max-width: 400px;
+    margin: 20px 0;
+  }
+  .regresar {
+    margin-top: 30px;
+  }
+  .regresar a {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+<h1>Canva</h1>
+
+<p>Canva es una plataforma de diseño gráfico en línea que permite crear presentaciones, posters, imágenes para redes sociales y mucho más de manera sencilla e intuitiva.</p>
+
+<p>Fue creada por Melanie Perkins y su equipo en 2012 y desde entonces ha revolucionado la forma en que las personas y empresas diseñan sin necesidad de tener conocimientos avanzados.</p>
+
+<p>Canva sirve para diseñar contenido visual para proyectos personales, educativos o profesionales con miles de plantillas, imágenes y herramientas.</p>
+
+<p>Su facilidad de uso ha ayudado a la comunidad digital a democratizar el diseño gráfico, permitiendo a cualquiera expresar sus ideas visualmente.</p>
+
+<p>Se diferencia de otras aplicaciones porque combina simplicidad, acceso desde cualquier dispositivo y una enorme biblioteca de recursos gratuitos y de pago.</p>
+
+<h2>¿Cómo usar Canva?</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canva_Logo.png/600px-Canva_Logo.png" alt="Logo Canva">
+<p>Para usar Canva, simplemente regístrate en su página web, elige una plantilla y comienza a editar con herramientas drag & drop.</p>
+
+<div class="regresar">
+  <a href="index.html">Regresar a la página principal</a>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Mentimeter - Cómo utilizar</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body {
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    color: #555555;
+  }
+  img {
+    max-width: 400px;
+    margin: 20px 0;
+  }
+  .regresar {
+    margin-top: 30px;
+  }
+  .regresar a {
+    color: #333;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+<h1>Mentimeter</h1>
+
+<p>Mentimeter es una plataforma interactiva para realizar presentaciones y encuestas en tiempo real que facilita la participación del público.</p>
+
+<p>Fue creada por Johan Brand en 2014 y se ha convertido en una herramienta fundamental para educadores, empresas y conferencistas.</p>
+
+<p>Sirve para crear preguntas, encuestas, votaciones, y presentaciones dinámicas con respuestas en vivo.</p>
+
+<p>Ha ayudado a la comunidad digital a mejorar la interacción y retroalimentación en reuniones y clases.</p>
+
+<p>Se diferencia de otras aplicaciones por su facilidad para crear nubes de palabras y otras visualizaciones interactivas de manera sencilla.</p>
+
+<h2>¿Cómo realizar una nube de palabras?</h2>
+<p>Para hacer una nube de palabras en Mentimeter, crea una nueva diapositiva y selecciona la opción “Nube de palabras”. Invita a tu audiencia a participar y observa cómo las palabras más repetidas crecen en tamaño.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mentimeter_Logo.png/600px-Mentimeter_Logo.png" alt="Logo Mentimeter">
+
+<div class="regresar">
+  <a href="index.html">Regresar a la página principal</a>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Genially - Cómo utilizar</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body {
+    background: linear-gradient(135deg, #FFCF00, #FF9000);
+    color: #333;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    color: #333;
+  }
+  img {
+    max-width: 400px;
+    margin: 20px 0;
+  }
+  .regresar {
+    margin-top: 30px;
+  }
+  .regresar a {
+    color: #333;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+<h1>Genially</h1>
+
+<p>Genially es una plataforma para crear contenidos interactivos, como presentaciones, infografías, juegos y mucho más, sin necesidad de conocimientos técnicos.</p>
+
+<p>Fue fundada por Javier Santaolalla y su equipo en 2015, y ha revolucionado la forma en que se crean contenidos digitales.</p>
+
+<p>Sirve para diseñar experiencias interactivas que captan la atención del público y fomentan la participación.</p>
+
+<p>Ha ayudado a la comunidad digital al facilitar la creación de contenido visual dinámico y atractivo, ideal para educación y marketing.</p>
+
+<p>Se diferencia de otras aplicaciones por su enfoque en la interactividad y la facilidad para crear imágenes y presentaciones con efectos visuales.</p>
+
+<h2>¿Cómo realizar una imagen interactiva?</h2>
+<p>Para crear una imagen interactiva en Genially, selecciona una plantilla, añade hotspots o enlaces sobre áreas específicas de la imagen para que el usuario pueda interactuar con ellas.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Genially_Logo.png/600px-Genially_Logo.png" alt="Logo Genially">
+
+<div class="regresar">
+  <a href="index.html">Regresar a la página principal</a>
+</div>
+</body>
+</html>
